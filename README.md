@@ -1,4 +1,4 @@
-# Meal Find App
+# Meal Finder App
 
 Take a look at this meal finder app, uses fetch API & Javascript
 
